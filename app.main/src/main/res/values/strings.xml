@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">App.main</string>
+    <string name="tip_jump_search">跳转到search界面</string>
 </resources>

@@ -33,7 +33,7 @@ public class MainActivity extends AppCompatActivity {
         Small.setUp(this, new Small.OnCompleteListener() {
             @Override
             public void onComplete() {
-                Small.openUri("main", MainActivity.this);
+                Small.openUri("search", MainActivity.this);
             }
         });
 
